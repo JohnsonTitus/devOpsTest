@@ -3,7 +3,7 @@
     <fullName>FieldToDelete__c</fullName>
     <externalId>false</externalId>
     <label>FieldToDelete</label>
-    <length>20</length>
+    <length>25</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
